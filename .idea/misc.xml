@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/backgroundcrop.xml" value="0.2703125" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/btn.xml" value="0.2703125" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/button.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/button_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/button_bg_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/drawable/button_steps.xml" value="0.2703125" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_advanced.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_basiccrunches_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_basiccrunches_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_basiccrunches_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_beginner.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_beginner_no_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bench_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bench_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bench_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bicycle_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bicycle_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bicycle_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boat_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boat_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boat_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boatpose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boatpose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_boatpose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bridge_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bridge_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_bridge_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_food.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_food_details.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_intermediate.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legraise_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legraise_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legraise_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legup_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legup_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_legup_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_main_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankrotation_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankrotation_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankrotation_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankwithleft_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankwithleft_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_plankwithleft_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_registration.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_reset_password.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_russiontwist_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_russiontwist_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_russiontwist_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_signup.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_situp_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_situp_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_situp_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_third.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_third2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_third3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_uiprobando.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_verticalegcrunches_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_verticalegcrunches_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_verticalegcrunches_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_vups_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_vups_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_vups_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_windmill_pose.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_windmill_pose2.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_windmill_pose3.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/probandologin.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/row.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/FitnessApp/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
