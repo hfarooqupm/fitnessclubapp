@@ -93,7 +93,7 @@ setSupportActionBar(toolbar);
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         int id= item.getItemId();
         if(id==R.id.privacy){
-            Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://dailyworkoutapps.com/terms-of-use.html"));
+            Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.freeprivacypolicy.com/live/5e301525-7e44-4638-b909-71407093c4ac"));
             startActivity(intent);
 
 
@@ -101,7 +101,7 @@ setSupportActionBar(toolbar);
             return true;
         }
         if(id==R.id.terms){
-            Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://dailyworkoutapps.com/terms-of-use.html"));
+            Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.freeprivacypolicy.com/live/5e301525-7e44-4638-b909-71407093c4ac"));
             startActivity(intent);
 
 

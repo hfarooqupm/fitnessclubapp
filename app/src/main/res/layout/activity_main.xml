@@ -33,39 +33,39 @@ app:titleMarginStart="140dp"
             android:orientation="vertical">
 
 
-
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10.0dp"
                 android:layout_marginTop="15.0dp"
-                android:backgroundTint="#7E7BD8"
                 android:background="@drawable/backgroundcrop"
+                android:backgroundTint="#7E7BD8"
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:onClick="beginner"
                     android:layout_width="fill_parent"
                     android:layout_height="150.0dp"
-
                     android:layout_gravity="center"
+
+                    android:onClick="beginner"
                     android:orientation="horizontal">
 
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1.0"
-                        android:orientation="vertical"
-                        >
+                        android:orientation="vertical">
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="monospace"
                             android:padding="5.0dp"
                             android:text="Beginner"
+                            android:textColor="@color/black"
                             android:textSize="35dp"
-                            android:textStyle="bold"
-                            android:textColor="@color/black"/>
+                            android:textStyle="bold" />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -78,14 +78,15 @@ app:titleMarginStart="140dp"
                             android:textStyle="bold"
 
                             />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="5.0dp"
                             android:text="15 Minutes Daily"
+                            android:textColor="#081019"
                             android:textSize="20dp"
                             android:textStyle="bold"
-                            android:textColor="#081019"
 
                             />
 
@@ -96,14 +97,12 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:layout_weight="2.0"
-                        >
+                        android:layout_weight="2.0">
 
                         <pl.droidsonroids.gif.GifImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:src="@drawable/begin"
-                            />
+                            android:src="@drawable/begin" />
 
                     </LinearLayout>
 
@@ -111,19 +110,16 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="0.0"
-                        >
+                        android:layout_weight="0.0">
 
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:padding="10.0dp"
-                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
-                            />
+                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24" />
 
 
                     </LinearLayout>
-
 
 
                 </LinearLayout>
@@ -144,54 +140,52 @@ app:titleMarginStart="140dp"
                     />
 
 
-
-
             </LinearLayout>
-            <com.google.android.gms.ads.AdView
-                xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+            <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/adView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="50dp"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="50dp"
                 ads:adSize="BANNER"
-                ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
-            </com.google.android.gms.ads.AdView>
+                ads:adUnitId="ca-app-pub-3940256099942544/6300978111"></com.google.android.gms.ads.AdView>
 
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#7E7BD8"
-
                 android:layout_margin="10.0dp"
+
                 android:layout_marginTop="15.0dp"
                 android:background="@drawable/backgroundcrop"
+                android:backgroundTint="#7E7BD8"
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:onClick="intermediate"
                     android:layout_width="fill_parent"
                     android:layout_height="150.0dp"
-
                     android:layout_gravity="center"
+
+                    android:onClick="intermediate"
                     android:orientation="horizontal">
 
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1.0"
-                        android:orientation="vertical"
-                        >
+                        android:orientation="vertical">
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="monospace"
                             android:padding="5.0dp"
                             android:text="Intermediate"
+                            android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:textStyle="bold"
-                            android:textColor="@color/black"/>
+                            android:textStyle="bold" />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -204,14 +198,15 @@ app:titleMarginStart="140dp"
                             android:textStyle="bold"
 
                             />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="5.0dp"
                             android:text="15 Minutes Daily"
+                            android:textColor="#06090C"
                             android:textSize="20dp"
                             android:textStyle="bold"
-                            android:textColor="#06090C"
 
                             />
 
@@ -222,14 +217,12 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:layout_weight="2.0"
-                        >
+                        android:layout_weight="2.0">
 
                         <pl.droidsonroids.gif.GifImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:src="@drawable/intermediate"
-                            />
+                            android:src="@drawable/intermediate" />
 
                     </LinearLayout>
 
@@ -237,19 +230,16 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="0.0"
-                        >
+                        android:layout_weight="0.0">
 
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:padding="10.0dp"
-                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
-                            />
+                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24" />
 
 
                     </LinearLayout>
-
 
 
                 </LinearLayout>
@@ -264,65 +254,62 @@ app:titleMarginStart="140dp"
                     android:background="@drawable/btn"
 
                     android:text="Start"
-                    android:textSize="20dp"
                     android:textAllCaps="true"
                     android:textColor="@color/white"
-
+                    android:textSize="20dp"
 
 
                     />
 
 
-
-
             </LinearLayout>
-            <com.google.android.gms.ads.AdView
-                xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+            <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/adView1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="50dp"
-                android:layout_centerHorizontal="true"
                 android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="50dp"
 
                 ads:adSize="BANNER"
-                ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
-            </com.google.android.gms.ads.AdView>
+                ads:adUnitId="ca-app-pub-3940256099942544/6300978111"></com.google.android.gms.ads.AdView>
 
 
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#7E7BD8"
-
                 android:layout_margin="10.0dp"
+
                 android:layout_marginTop="15.0dp"
                 android:background="@drawable/backgroundcrop"
+                android:backgroundTint="#7E7BD8"
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:onClick="advanced"
                     android:layout_width="fill_parent"
                     android:layout_height="150.0dp"
-
                     android:layout_gravity="center"
+
+                    android:onClick="advanced"
                     android:orientation="horizontal">
 
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1.0"
-                        android:orientation="vertical"
-                        >
+                        android:orientation="vertical">
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="monospace"
                             android:padding="5.0dp"
                             android:text="Advanced"
+                            android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:textStyle="bold"
-                            android:textColor="@color/black"/>
+                            android:textStyle="bold" />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -335,14 +322,15 @@ app:titleMarginStart="140dp"
                             android:textStyle="bold"
 
                             />
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="5.0dp"
                             android:text="30 Minutes Daily"
+                            android:textColor="#0B1117"
                             android:textSize="20dp"
                             android:textStyle="bold"
-                            android:textColor="#0B1117"
 
                             />
 
@@ -353,14 +341,12 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:layout_weight="2.0"
-                        >
+                        android:layout_weight="2.0">
 
                         <pl.droidsonroids.gif.GifImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:src="@drawable/advanced"
-                            />
+                            android:src="@drawable/advanced" />
 
                     </LinearLayout>
 
@@ -368,19 +354,16 @@ app:titleMarginStart="140dp"
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="0.0"
-                        >
+                        android:layout_weight="0.0">
 
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:padding="10.0dp"
-                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
-                            />
+                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24" />
 
 
                     </LinearLayout>
-
 
 
                 </LinearLayout>
@@ -401,36 +384,33 @@ app:titleMarginStart="140dp"
                     />
 
 
-
-
             </LinearLayout>
 
 
             <LinearLayout
-                android:onClick="food"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10.0dp"
                 android:layout_marginTop="15dp"
+                android:background="@drawable/backgroundcrop"
                 android:backgroundTint="#7E7BD8"
 
-                android:background="@drawable/backgroundcrop"
-                android:orientation="vertical"
-            >
+                android:onClick="food"
+                android:orientation="vertical">
 
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="150.0dp"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:orientation="horizontal" >
+                    android:orientation="horizontal">
 
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
 
                         android:layout_weight="1.0"
-                        android:orientation="vertical" >
+                        android:orientation="vertical">
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -440,16 +420,15 @@ app:titleMarginStart="140dp"
                             android:text="Nutrition Tips"
                             android:textColor="#ff000000"
                             android:textSize="23.0dp"
-                            android:textStyle="bold"
-                            />
+                            android:textStyle="bold" />
+
                         <TextView
-                            android:textStyle="bold"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="5.0dp"
+                            android:text="Diet Plans"
                             android:textSize="20dp"
-                            android:text="Diet Plans"/>
-
+                            android:textStyle="bold" />
 
 
                     </LinearLayout>
@@ -463,7 +442,7 @@ app:titleMarginStart="140dp"
                         <ImageView
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:src="@drawable/nutrition"/>
+                            android:src="@drawable/nutrition" />
 
                     </LinearLayout>
 
@@ -477,33 +456,13 @@ app:titleMarginStart="140dp"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:padding="10.0dp"
-                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
-                            />
-
-
-
-
-
+                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24" />
 
 
                     </LinearLayout>
 
 
-
-
-
-
-
-
-
                 </LinearLayout>
-
-
-
-
-
-
-
 
 
             </LinearLayout>
@@ -517,34 +476,16 @@ app:titleMarginStart="140dp"
                 <FrameLayout
                     android:id="@+id/adplaceholder"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"/>
-
-
-
+                    android:layout_height="wrap_content" />
 
 
             </LinearLayout>
 
 
-
-
-
-
         </LinearLayout>
 
 
-
-
-
-
-
-
-
-
     </ScrollView>
-
-
-
 
 
 </LinearLayout>
